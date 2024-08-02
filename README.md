@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jack Adamczyk</h1>
-<h3 align="center">A passionate aspireing developer with high hopes</h3>
+<h3 align="center">A passionate developer with high hopes</h3>
 
 - 🔭 I’m currently working on [Around the U.S,](https://github.com/Adamjackczyk/se_project_aroundtheus)
 
