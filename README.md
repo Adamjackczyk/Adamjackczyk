@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Adamjackczyk?tab=repositories](https://github.com/Adamjackczyk?tab=repositories)
 
-- 📫 How to reach me **prepinavest@gmail.com**
+- 📫 How to reach me **jackadamczykjs@gmail.com**
 
 - ⚡ Fun fact **I'm a programmer who can planche.**
 
